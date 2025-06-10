@@ -6,14 +6,30 @@ const equations = {
   grupo1: "imagens/equacao1.png",
   grupo2: "imagens/equacao2.png",
   grupo3: "imagens/equacao3.png",
-  grupo4: "imagens/equacao4.png"
+  grupo4: "imagens/equacao4.png",
+  grupo5: "imagens/equacao5.png",
+  grupo6: "imagens/equacao6.png",
+  grupo7: "imagens/equacao7.png",
+  grupo8: "imagens/equacao8.png",
+  grupo9: "imagens/equacao9.png",
+  grupo10: "imagens/equacao10.png",
+  grupo11: "imagens/equacao11.png",
+  grupo12: "imagens/equacao12.png"
 };
 
 const passwords = {
   grupo1: "435812",
   grupo2: "714823",
   grupo3: "564923",
-  grupo4: "865629"
+  grupo4: "865629",
+  grupo5: "753947",
+  grupo6: "843510",
+  grupo7: "10535315",
+  grupo8: "9546212",
+  grupo9: "11637210",
+  grupo10: "763554",
+  grupo11: "1233829",
+  grupo12: "973737",
 };
 
 window.onload = function() {
